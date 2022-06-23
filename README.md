@@ -7,4 +7,4 @@
  </p>
 
 <h2 align="center"> My mini-projects: </h2>
-<a href="https://deluxe-melomakarona-276e47.netlify.app/" align="center">StopWatch</a>
+<p align="center"><a href="https://deluxe-melomakarona-276e47.netlify.app/">StopWatch</a></p>

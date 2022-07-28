@@ -7,7 +7,10 @@
  </p>
 
 <h2 align="center"> My mini-projects: </h2>
+<p align="center"><a href="https://glowing-flan-96b131.netlify.app/">LandingPage - Live Demo</a></p>
 <p align="center"><a href="https://chic-wisp-32805b.netlify.app/">SurveyorDesk - Live Demo</a></p>
 <p align="center"><a href="https://fantastic-hamster-c7689e.netlify.app/">WeatherApp - Live Demo</a></p>
 <p align="center"><a href="https://deluxe-melomakarona-276e47.netlify.app/">StopWatch - Live Demo</a></p>
 <p align="center"><a href="https://admirable-brioche-ad67ca.netlify.app/">ReactTodo - Live Demo</a></p>
+
+

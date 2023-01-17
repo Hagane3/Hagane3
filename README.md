@@ -11,6 +11,8 @@
 <img  src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" width="50" height="50"/>
 <img  src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg"  width="50" height="50"/>
 <img  src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" width="50" height="50"/>
+<img src="https://github.com/devicons/devicon/blob/master/icons/jest/jest-plain.svg" width="50" height="50" />
+<img src="https://github.com/devicons/devicon/blob/master/icons/tailwindcss/tailwindcss-plain.svg" width="50" height="50" />
 </p>
  <p align="center">
     <img src="https://github-readme-streak-stats.herokuapp.com?user=Hagane3" alt="alternate text">

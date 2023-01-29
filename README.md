@@ -1,5 +1,6 @@
  <h1 align="center">Hello there, I'm Konrad!</h1>
  <h2 align="center">Currently learning Frontend Development</h1>
+ <img align="center" src="https://komarev.com/ghpvc/?username=Hagane3"> 
  <p align="center"><strike>HTML</strike> :heavy_check_mark: | <strike>CSS</strike> :heavy_check_mark: | <strike>JavaScript</strike> :heavy_check_mark: | <strike>React</strike> :heavy_check_mark: | <strike>TypeScript</strike> :heavy_check_mark: | <strike>NextJS</strike> :heavy_check_mark: | <strike>Testing</strike> ✔️ | <strong>Keep learning 📚</strong> </p>
 
 <h3 align="center">Stack</h3>
@@ -15,7 +16,8 @@
 <img src="https://github.com/devicons/devicon/blob/master/icons/tailwindcss/tailwindcss-plain.svg" width="50" height="50" />
 </p>
  <p align="center">
-    <img src="https://github-readme-streak-stats.herokuapp.com?user=Hagane3" alt="alternate text">
+    <img src="https://github-readme-streak-stats.herokuapp.com?user=Hagane3" alt="alternate text"><br>
+ <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Hagane3&layout=compact)" alt=" ">
  </p>
 
 

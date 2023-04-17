@@ -2,7 +2,7 @@
  <p align="center"><a href="https://www.linkedin.com/in/konradslomiany/">LinkedIn</a></p>
  <h2 align="center">Currently learning Frontend Development</h1>
  <img align="center" src="https://komarev.com/ghpvc/?username=Hagane3"> 
- <p align="center"><strike>HTML</strike> :heavy_check_mark: | <strike>CSS</strike> :heavy_check_mark: | <strike>JavaScript</strike> :heavy_check_mark: | <strike>React</strike> :heavy_check_mark: | <strike>TypeScript</strike> :heavy_check_mark: | <strike>Testing</strike> ✔️ | <strong>Keep learning 📚</strong> </p>
+ <p align="center"><strike>HTML</strike> :heavy_check_mark: | <strike>CSS</strike> :heavy_check_mark: | <strike>JavaScript</strike> :heavy_check_mark: | <strike>React</strike> :heavy_check_mark: | <strike>TypeScript</strike> :heavy_check_mark: |  <strong>Keep learning 📚</strong> </p>
 
 <h3 align="center">Stack</h3>
 <p align="center">

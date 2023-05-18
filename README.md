@@ -5,7 +5,7 @@
  <p align="center"><strike>HTML</strike> :heavy_check_mark: | <strike>CSS</strike> :heavy_check_mark: | <strike>JavaScript</strike> :heavy_check_mark: | <strike>React</strike> :heavy_check_mark: | <strike>TypeScript</strike> :heavy_check_mark: |  <strong>Keep learning 📚</strong> </p>
  
 <h3 align="center">I want to learn:</h3>
-<p align="center">Docker | GraphQL | React Query | Vue | Node </p>
+<p align="center">Docker | GraphQL | Vue | Node </p>
 
 <h3 align="center">Stack</h3>
 <p align="center">

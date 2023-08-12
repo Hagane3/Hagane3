@@ -1,6 +1,6 @@
  <h1 align="center">Hello there, I'm Konrad!</h1>
  <p align="center"><a href="https://www.linkedin.com/in/konradslomiany/">LinkedIn</a></p>
- <h2 align="center">Currently learning Frontend Development</h2>
+ <h2 align="center">Frontend Developer</h2>
  <img align="center" src="https://komarev.com/ghpvc/?username=Hagane3"> 
  <p align="center"><strike>HTML</strike> :heavy_check_mark: | <strike>CSS</strike> :heavy_check_mark: | <strike>JavaScript</strike> :heavy_check_mark: | <strike>React</strike> :heavy_check_mark: | <strike>TypeScript</strike> :heavy_check_mark: |  <strong>Keep learning 📚</strong> </p>
  

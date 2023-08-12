@@ -1,7 +1,7 @@
  <h1 align="center">Hello there, I'm Konrad!</h1>
  <p align="center"><a href="https://www.linkedin.com/in/konradslomiany/">LinkedIn</a></p>
  <h2 align="center">Frontend Developer</h2>
- <img align="center" src="https://komarev.com/ghpvc/?username=Hagane3"> 
+ <div align="center"><img align="center" src="https://komarev.com/ghpvc/?username=Hagane3"> </div>
 
 <h3 align="center">Stack</h3>
 <p align="center">

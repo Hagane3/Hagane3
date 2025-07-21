@@ -14,11 +14,6 @@
 <img  src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" width="50" height="50"/>
 <img src="https://github.com/devicons/devicon/blob/master/icons/jest/jest-plain.svg" width="50" height="50" />
 <img src="https://github.com/devicons/devicon/blob/master/icons/tailwindcss/tailwindcss-plain.svg" width="50" height="50" />
-</p>
- <p align="center">
-    <img src="https://github-readme-streak-stats.herokuapp.com?user=Hagane3" alt="alternate text"><br>
- <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Hagane3&layout=compact)" alt=" ">
- </p>
 
 
 
